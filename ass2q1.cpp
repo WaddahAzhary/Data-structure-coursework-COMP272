@@ -2,6 +2,12 @@
 Wadah Elsiddig
 3385818
 COMP272
+
+The question is write a code for the following:
+preorderNext(x): return the node visited after node x in a pre-order traversal of BT.
+postorderNext(x): return the node visited after node x in a post-order traversal of BT.
+inorderNext(x): return the node visited after node x in an in-order traversal of BT.
+
 */
 #include<iostream>
 using namespace std;
